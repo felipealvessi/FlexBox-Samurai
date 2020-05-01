@@ -6,7 +6,7 @@
   <img width="200px" src="https://user-images.githubusercontent.com/57417305/80775981-88a1f900-8b37-11ea-95dd-0e69686f1365.gif" />
 </h1>
   
-1. [Introduction](#flexbox-intro)
+1. [Introdução](#flexbox-intro)
 1. [Flex Container & Flex Items](#flex-container-and-flex-items)
 1. [Immediate Child Only](#immediate-child-only)
 1. [Flexbox Axes](#flexbox-axes)
