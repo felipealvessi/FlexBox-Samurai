@@ -5,9 +5,11 @@
 <h1 align="center">
   <img width="200px" src="https://user-images.githubusercontent.com/57417305/80775981-88a1f900-8b37-11ea-95dd-0e69686f1365.gif" />
 </h1>
+
+  ## Flex Container
   
 1. [Introdução](#flexbox-intro)
-1. [Flex Container & Flex Items](#flex-container-and-flex-items)
+1. [Display](#flex-container-display)
 1. [Immediate Child Only](#immediate-child-only)
 1. [Flexbox Axes](#flexbox-axes)
 1. [Flexbox Module](#flexbox-module)
@@ -47,4 +49,4 @@
 
 <a id="flexbox-intro"></a>
 
-### [Day 1: Introduction](#flexbox-intro)
+### [Day 1: Introdução](#flexbox-intro)
