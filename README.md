@@ -6,24 +6,16 @@
   <img width="200px" src="https://user-images.githubusercontent.com/57417305/80775981-88a1f900-8b37-11ea-95dd-0e69686f1365.gif" />
 </h1>
 
-  ## Flex Container
-  
-1. [Introdução](#flexbox-intro)
-1. [Display](#flex-container-display)
-1. [flex-direction](#flex-direction)
-1. [flex-wrap](#flex-wrap)
-1. [flex-flow](#flex-flow)
-1. [justify-content](#justify-content)
-1. [align-items](#align-items)
-1. [align-content](#align-content)
-
-  ## Flex Item
-1. [fflex-grow](#flex-grow)
-1. [flex-basis](#flex-basis)
-1. [flex-shrink](#flex-shrink)
-1. [flex](#flex)
-1. [order](#order)
-1. [align-self](#align-self)
+| Flex Container                         |  Flex Item
+| :---                                   |  :--- 
+|  1. [Introdução](#flexbox-intro)       |  1. [fflex-grow](#flex-grow)
+|  1. [Display](#flex-container-display) |  1. [flex-basis](#flex-basis)
+|  1. [flex-direction](#flex-direction)  |  1. [flex-shrink](#flex-shrink)
+|  1. [flex-wrap](#flex-wrap)            |  1. [flex](#flex)
+|  1. [flex-flow](#flex-flow)            |  1. [order](#order)
+|  1. [justify-content](#justify-content)|  1. [align-self](#align-self)
+|  1. [align-items](#align-items)        |
+|  1. [align-content](#align-content)    |
   
 ## Flex Container
 
