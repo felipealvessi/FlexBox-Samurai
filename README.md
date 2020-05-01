@@ -22,8 +22,9 @@
 | [align-content](#align-content)    |
 
 
-<a id="flexbox-intro" ><img width="350px" src="https://user-images.githubusercontent.com/57417305/80779289-95c3e580-8b41-11ea-97e0-acdc080cde78.gif" /></a>
+<h1 align="">
+  <img width="350px" src="https://user-images.githubusercontent.com/57417305/80779549-577af600-8b42-11ea-9214-ab2d44c87d6c.gif" />
+</h1>
 
 ### [Day 1: Introdução](#flexbox-intro)
 
-<a id="flexbox-intro" ><img width="350px" src="https://user-images.githubusercontent.com/57417305/80779289-95c3e580-8b41-11ea-97e0-acdc080cde78.gif" /></a>
