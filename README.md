@@ -2,8 +2,11 @@
 
 ![parte-02](https://user-images.githubusercontent.com/57417305/80775418-efbeae00-8b35-11ea-97b0-7eba5ac0bff1.gif)
 
+
 <h1 align="center">
   <img width="200px" src="https://user-images.githubusercontent.com/57417305/80778043-77f48180-8b3d-11ea-8c94-bfbd472b30cf.gif" />
+</h1>
+<h1 align="center">
   <img width="200px" src="https://user-images.githubusercontent.com/57417305/80775981-88a1f900-8b37-11ea-95dd-0e69686f1365.gif" />
 </h1>
 
