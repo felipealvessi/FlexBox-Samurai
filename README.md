@@ -12,7 +12,7 @@
 
 | Flex Container                     |  Flex Item
 | :---                               |  :--- 
-| [Introdução](#flexbox-intro)       |  [Flex-grow](#flex-grow)
+| [Introdução](#flexbox-intro)       |  [flex-grow](#flex-grow)
 | [display](#flex-container-display) |  [flex-basis](#flex-basis)
 | [flex-direction](#flex-direction)  |  [flex-shrink](#flex-shrink)
 | [flex-wrap](#flex-wrap)            |  [flex](#flex)
