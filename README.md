@@ -6,5 +6,10 @@
   <img width="200px" src="https://user-images.githubusercontent.com/57417305/80775981-88a1f900-8b37-11ea-95dd-0e69686f1365.gif" />
 </h1>
   
+1. [Introduction](#flexbox-intro)
   
-  
+## Flexbox Core Concepts
+
+<a id="flexbox-intro"></a>
+
+### [Day 1: Introduction](#flexbox-intro)
