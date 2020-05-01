@@ -23,7 +23,7 @@
 
 
 <h1 align="">
-  <img width="350px" src="https://user-images.githubusercontent.com/57417305/80779549-577af600-8b42-11ea-9214-ab2d44c87d6c.gif" />
+  <img width="350px" src="https://user-images.githubusercontent.com/57417305/80779651-ae80cb00-8b42-11ea-881a-f2ea7383e299.gif" />
 </h1>
 
 ### [Day 1: Introdução](#flexbox-intro)
