@@ -32,4 +32,5 @@
   <img width="250px" src="https://user-images.githubusercontent.com/57417305/80779876-5bf3de80-8b43-11ea-9bd6-728e2f6f2dd2.gif" />
 </h1>
 
+<a id="flex-grow"></a>
 ### [Day 1: flex-grow](#flex-grow)
