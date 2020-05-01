@@ -20,7 +20,7 @@
 | [justify-content](#justify-content)|  [align-self](#align-self)
 | [align-items](#align-items)        |
 | [align-content](#align-content)    |
-  
+
 ## Flex Container
 
 <a id="flexbox-intro"></a>
