@@ -12,7 +12,7 @@
 
 | Flex Container                     |  Flex Item
 | :---                               |  :--- 
-| [Introdução](#flexbox-intro)       |  [flex-grow](#flex-grow)
+| 1.[Introdução](#flexbox-intro)       |  [flex-grow](#flex-grow)
 | [display](#flex-container-display) |  [flex-basis](#flex-basis)
 | [flex-direction](#flex-direction)  |  [flex-shrink](#flex-shrink)
 | [flex-wrap](#flex-wrap)            |  [flex](#flex)
@@ -21,6 +21,7 @@
 | [align-items](#align-items)        |
 | [align-content](#align-content)    |
 
+1.[Introdução](#flexbox-intro)
 
 <h1 align="">
   <img width="350px" src="https://user-images.githubusercontent.com/57417305/80779651-ae80cb00-8b42-11ea-881a-f2ea7383e299.gif" />
