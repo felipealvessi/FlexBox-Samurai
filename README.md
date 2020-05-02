@@ -2,6 +2,9 @@
 
 ![parte-02](https://user-images.githubusercontent.com/57417305/80775418-efbeae00-8b35-11ea-97b0-7eba5ac0bff1.gif)
 
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/57417305/80855949-faec0980-8c1b-11ea-9f74-72dde422b92b.gif" />
+</h1>
 
 <h1 align="center">
   <img width="180px" src="https://user-images.githubusercontent.com/57417305/80854796-654b7c80-8c11-11ea-8d74-360e369505d3.gif" />
