@@ -4,6 +4,7 @@
 
 
 <h1 align="center">
+  <img width="180px" src="https://user-images.githubusercontent.com/57417305/80854796-654b7c80-8c11-11ea-8d74-360e369505d3.gif" />
   <img src="https://user-images.githubusercontent.com/57417305/80778043-77f48180-8b3d-11ea-8c94-bfbd472b30cf.gif" />
 </h1>
 <h1 align="">
