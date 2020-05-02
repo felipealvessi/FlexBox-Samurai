@@ -22,7 +22,7 @@
   <img width="350" src="https://user-images.githubusercontent.com/57417305/80865644-23e2bd80-8c61-11ea-9d92-9fea90c896f6.gif" />
 </h1>
 
-0. [display](/1-Flex-Container/0-Introdução.md)
+0. [Introdução](/1-Flex-Container/0-Introdução.md)
 1. [display](/1-Flex-Container/1-Display.md)
 2. [flex-direction](/1-Flex-Container/2-Flex-Direction.md)
 3. [flex-wrap](/1-Flex-Container/3-Flex-Wrap.md)
