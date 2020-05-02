@@ -28,9 +28,9 @@
   <img width="300" src="https://user-images.githubusercontent.com/57417305/80866758-dd905d00-8c66-11ea-9cdd-8c0c3e628a4e.gif" />
 </h1>
 
-1. [flex-grow](/1-Flex-Container/1-Flex-Grow.md)
-2. [flex-basis](/1-Flex-Container/2-Flex-Basis.md)
-3. [flex-shrink](/1-Flex-Container/3-Flex-Shrink.md)
-4. [flex](/1-Flex-Container/4-Flex.md)
-5. [order](/1-Flex-Container/5-Order.md)
-6. [align-self](/1-Flex-Container/6-Align-Self.md)
+1. [flex-grow](/1-Flex-Items/1-Flex-Grow.md)
+2. [flex-basis](/1-Flex-Items/2-Flex-Basis.md)
+3. [flex-shrink](/1-Flex-Items/3-Flex-Shrink.md)
+4. [flex](/1-Flex-Items/4-Flex.md)
+5. [order](/1-Flex-Items/5-Order.md)
+6. [align-self](/1-Flex-Items/6-Align-Self.md)
