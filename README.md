@@ -31,7 +31,7 @@
 7. [align-content](/1-Flex-Container/7-Align-Content.md)
 
 <h1 align="">
-  <img width="300" src="https://user-images.githubusercontent.com/57417305/80866758-dd905d00-8c66-11ea-9cdd-8c0c3e628a4e.gif" />
+  <img width="260" src="https://user-images.githubusercontent.com/57417305/80866758-dd905d00-8c66-11ea-9cdd-8c0c3e628a4e.gif" />
 </h1>
 
 1. [flex-grow](/2-Flex-Items/1-Flex-Grow.md)
