@@ -4,4 +4,4 @@ Antes do Flexbox, usávamos usando principalmente floats para o layout. E para o
 
 O Flexible Box Module, geralmente chamado de flexbox, foi projetado como um modelo de layout unidimensional, e espaço entre itens numa interface e capacidades poderosas de alinhamento.
 
-![0-introducao](https://user-images.githubusercontent.com/57417305/80868799-18988d80-8c73-11ea-9bf4-6c252c70b7d7.png)
+![0-introducao](https://user-images.githubusercontent.com/57417305/80868873-7fb64200-8c73-11ea-92d9-f5d364db2b7c.png)
