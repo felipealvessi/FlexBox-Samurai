@@ -17,8 +17,13 @@
 </h1>
 
 [1 • display](/1-Flex-Container/1-Display.md)
+
 [2 • flex-direction](/1-Flex-Container/1-Flex-Direction.md)
+
 [3 • display](/1-Flex-Container/1-Display.md)
+
 [4 • display](/1-Flex-Container/1-Display.md)
+
 [5 • display](/1-Flex-Container/1-Display.md)
+
 [6 • display](/1-Flex-Container/1-Display.md)
