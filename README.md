@@ -17,10 +17,11 @@
 </h1>
 
 1. [display](/1-Flex-Container/1-Display.md)
-2. [flex-direction](/1-Flex-Container/1-Flex-Direction.md)
-3. [display](/1-Flex-Container/1-Display.md)
-4. [display](/1-Flex-Container/1-Display.md)
-5. [display](/1-Flex-Container/1-Display.md)
-6. [display](/1-Flex-Container/1-Display.md)
+2. [flex-direction](/1-Flex-Container/2-Flex-Direction.md)
+3. [flex-wrap](/1-Flex-Container/3-flex-wrap.md)
+4. [flex-flow](/1-Flex-Container/4-flex-flow.md)
+5. [justify-content](/1-Flex-Container/5-justify-content.md)
+6. [align-items](/1-Flex-Container/6-align-items.md)
+7. [align-content](/1-Flex-Container/7-align-content.md)
 
 
