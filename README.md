@@ -9,10 +9,8 @@
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/57417305/80778043-77f48180-8b3d-11ea-8c94-bfbd472b30cf.gif" />
 </h1>
-<h1 align="">
-  <img width="200px" src="https://user-images.githubusercontent.com/57417305/80775981-88a1f900-8b37-11ea-95dd-0e69686f1365.gif" />
-</h1>
 
+## ROADMAP
 
 <h1 align="">
   <img width="350" src="https://user-images.githubusercontent.com/57417305/80865644-23e2bd80-8c61-11ea-9d92-9fea90c896f6.gif" />
