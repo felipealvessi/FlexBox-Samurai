@@ -2,6 +2,12 @@
 
 ![parte-02](https://user-images.githubusercontent.com/57417305/80775418-efbeae00-8b35-11ea-97b0-7eba5ac0bff1.gif)
 
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  </a>
+</p>
+
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/57417305/80855949-faec0980-8c1b-11ea-9f74-72dde422b92b.gif" />
 </h1>
@@ -34,3 +40,9 @@
 4. [flex](/2-Flex-Items/4-Flex.md)
 5. [order](/2-Flex-Items/5-Order.md)
 6. [align-self](/2-Flex-Items/6-Align-Self.md)
+
+## Autores
+
+- **Gohara Junior** - Front-end Developer - [LinkedIn](https://www.linkedin.com/in/goharajunior/)
+
+<p align="center">Made with 💜</p>
