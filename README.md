@@ -18,10 +18,10 @@
 
 1. [display](/1-Flex-Container/1-Display.md)
 2. [flex-direction](/1-Flex-Container/2-Flex-Direction.md)
-3. [flex-wrap](/1-Flex-Container/3-flex-wrap.md)
-4. [flex-flow](/1-Flex-Container/4-flex-flow.md)
-5. [justify-content](/1-Flex-Container/5-justify-content.md)
-6. [align-items](/1-Flex-Container/6-align-items.md)
-7. [align-content](/1-Flex-Container/7-align-content.md)
+3. [flex-wrap](/1-Flex-Container/3-Flex-Wrap.md)
+4. [flex-flow](/1-Flex-Container/4-Flex-Flow.md)
+5. [justify-content](/1-Flex-Container/5-Justify-Content.md)
+6. [align-items](/1-Flex-Container/6-Align-Items.md)
+7. [align-content](/1-Flex-Container/7-Align-Content.md)
 
 
