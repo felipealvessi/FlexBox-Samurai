@@ -19,13 +19,13 @@
 ## ROADMAP
 
 <h1 align="">
+  <img width="350" src="https://user-images.githubusercontent.com/57417305/80865644-23e2bd80-8c61-11ea-9d92-9fea90c896f6.gif" />
+</h1>
+
+<h1 align="">
   <img width="350" src="https://user-images.githubusercontent.com/57417305/80914099-d4af9200-8d1f-11ea-8d67-9813b557f375.png" />
 </h1>
 
-
-<h1 align="">
-  <img width="350" src="https://user-images.githubusercontent.com/57417305/80865644-23e2bd80-8c61-11ea-9d92-9fea90c896f6.gif" />
-</h1>
 
 0. [Introdução](/1-Flex-Container/0-Introdução.md)
 1. [display](/1-Flex-Container/1-Display.md)
@@ -38,11 +38,11 @@
 
 
 <h1 align="">
-  <img width="350" src="https://user-images.githubusercontent.com/57417305/80914155-2526ef80-8d20-11ea-8d15-92f070f6e59c.png" />
+  <img width="260" src="https://user-images.githubusercontent.com/57417305/80866758-dd905d00-8c66-11ea-9cdd-8c0c3e628a4e.gif" />
 </h1>
 
 <h1 align="">
-  <img width="260" src="https://user-images.githubusercontent.com/57417305/80866758-dd905d00-8c66-11ea-9cdd-8c0c3e628a4e.gif" />
+  <img width="350" src="https://user-images.githubusercontent.com/57417305/80914155-2526ef80-8d20-11ea-8d15-92f070f6e59c.png" />
 </h1>
 
 1. [flex-grow](/2-Flex-Items/1-Flex-Grow.md)
