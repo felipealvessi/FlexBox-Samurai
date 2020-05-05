@@ -1,7 +1,7 @@
 # 4 • flex-flow
 
 O flex-flow é um atalho para as propriedades flex-direction e flex-wrap. Você não verá muito o seu uso,
-pois geralmente quando mudamos o flex-direction para column, mantemos o padrão do flex-wrap que é nowrap.
+pois geralmente quando mudamos o flex-direction para column, mantemos o padrão do flex-wrap que é nowrap.</br>
 E quando mudamos o flex-wrap para wrap, mantemos o padrão do flex-direction que é row.
 
 ```js
