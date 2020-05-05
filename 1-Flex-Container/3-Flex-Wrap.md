@@ -14,7 +14,7 @@ flex-wrap: wrap-reverse;
 }
 ```
 
-![flex-wrap](https://user-images.githubusercontent.com/57417305/81070733-0bb9ab00-8eba-11ea-8109-1ee3561dc96a.png)
+![flex-wrap](https://user-images.githubusercontent.com/57417305/81071567-4708a980-8ebb-11ea-812d-5f6d450d19a0.png)
 
 ## Veja também em:
 <img width="200px" src="https://user-images.githubusercontent.com/57417305/80937857-23573d80-8dad-11ea-8473-123454e87187.png"/>
