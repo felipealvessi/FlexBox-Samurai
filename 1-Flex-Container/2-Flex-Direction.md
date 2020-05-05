@@ -4,7 +4,7 @@ Essa é a propriedade que nos permite definir nosso eixo principal. O nosso eixo
 
 
 ```js
-flex-direction: row;
+flex-direction: row; /* default */
 // Os itens ficam em linha
 flex-direction: row-reverse;
 // Os itens ficam em linha reversa, ou seja 3, 2, 1.
