@@ -1,6 +1,6 @@
 ![versao-maior](https://user-images.githubusercontent.com/57417305/80772249-6fe01600-8b2c-11ea-8926-c8c969dfa8c8.gif)
 
-![parte-02](https://user-images.githubusercontent.com/57417305/80775418-efbeae00-8b35-11ea-97b0-7eba5ac0bff1.gif)
+![parte-02](https://user-images.githubusercontent.com/57417305/81239377-13bd3c00-8fdb-11ea-9567-30a27becb1bf.gif)
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -9,21 +9,17 @@
 </p>
 
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/57417305/80855949-faec0980-8c1b-11ea-9f74-72dde422b92b.gif" />
-</h1>
-
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/57417305/80778043-77f48180-8b3d-11ea-8c94-bfbd472b30cf.gif" />
+  <img src="https://user-images.githubusercontent.com/57417305/81239698-f2108480-8fdb-11ea-862c-665ef9c82af6.gif" />
 </h1>
 
 ## ROADMAP
 
 <h1 align="">
-  <img width="350" src="https://user-images.githubusercontent.com/57417305/80865644-23e2bd80-8c61-11ea-9d92-9fea90c896f6.gif" />
+  <img width="350" src="https://user-images.githubusercontent.com/57417305/81239243-a3aeb600-8fda-11ea-8a59-45729df569b8.gif" />
 </h1>
 
 <h1 align="">
-  <img width="350" src="https://user-images.githubusercontent.com/57417305/80914099-d4af9200-8d1f-11ea-8d67-9813b557f375.png" />
+  <img width="350" src="https://user-images.githubusercontent.com/57417305/81237560-57617700-8fd6-11ea-80f3-151216a03bdc.png" />
 </h1>
 
 
@@ -38,11 +34,11 @@
 
 
 <h1 align="">
-  <img width="260" src="https://user-images.githubusercontent.com/57417305/80866758-dd905d00-8c66-11ea-9cdd-8c0c3e628a4e.gif" />
+  <img width="260" src="https://user-images.githubusercontent.com/57417305/81239289-cccf4680-8fda-11ea-976b-9f9444f649ee.gif" />
 </h1>
 
 <h1 align="">
-  <img width="350" src="https://user-images.githubusercontent.com/57417305/80914155-2526ef80-8d20-11ea-8d15-92f070f6e59c.png" />
+  <img width="350" src="https://user-images.githubusercontent.com/57417305/81237692-a14a5d00-8fd6-11ea-9dcd-9fb6820a1609.png" />
 </h1>
 
 1. [flex-grow](/2-Flex-Items/1-Flex-Grow.md)
