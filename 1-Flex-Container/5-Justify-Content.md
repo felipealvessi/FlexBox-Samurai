@@ -16,20 +16,22 @@ justify-content: space-between;
 justify-content: space-around;
 // Cria um espaçamento entre os elementos. Os espaçamentos do meio são duas vezes maiores que o inicial e final.
 ```
-![justify-content-row](https://user-images.githubusercontent.com/57417305/81176516-a0381200-8f7b-11ea-8181-b9893ae69d9f.png)
+
+<img width="700px" src="https://user-images.githubusercontent.com/57417305/81176516-a0381200-8f7b-11ea-8181-b9893ae69d9f.png" />
 
 ## Veja também em:
-<img width="200px" target="_blank" src="https://user-images.githubusercontent.com/57417305/80937857-23573d80-8dad-11ea-8473-123454e87187.png"/>
+<img width="200px" src="https://user-images.githubusercontent.com/57417305/80937857-23573d80-8dad-11ea-8473-123454e87187.png"/>
 
-[• LINK AQUI](https://codepen.io/Gohara/pen/bGVLeEz)
+
+<a href=“https://codepen.io/Gohara/pen/bGVLeEz“>• LINK AQUI</a>
 
 # 5 • justify-content - [column]
 
 O eixo principal também pode ficar na vertical. Nesse caso, flex-direction é definido como coluna. Veja como os flex items serão alinhados nessa instância.
 
-![justify-content-column](https://user-images.githubusercontent.com/57417305/81183415-84d20480-8f85-11ea-8664-2ea31ddeb379.png)
+<img width="700px" src="https://user-images.githubusercontent.com/57417305/81183415-84d20480-8f85-11ea-8664-2ea31ddeb379.png" />
 
 ## Veja também em:
 <img width="200px" src="https://user-images.githubusercontent.com/57417305/80937857-23573d80-8dad-11ea-8473-123454e87187.png"/>
 
-[• LINK AQUI](https://codepen.io/Gohara/pen/ZEbrOdK)
+<a href=“https://codepen.io/Gohara/pen/ZEbrOdK“>• LINK AQUI</a>
