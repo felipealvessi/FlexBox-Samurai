@@ -22,8 +22,7 @@ justify-content: space-around;
 ## Veja também em:
 <img width="200px" src="https://user-images.githubusercontent.com/57417305/80937857-23573d80-8dad-11ea-8473-123454e87187.png"/>
 
-
-<a href=“https://codepen.io/Gohara/pen/bGVLeEz“>• LINK AQUI</a>
+[• LINK AQUI](https://codepen.io/Gohara/pen/bGVLeEz)
 
 # 5 • justify-content - [column]
 
@@ -34,4 +33,4 @@ O eixo principal também pode ficar na vertical. Nesse caso, flex-direction é d
 ## Veja também em:
 <img width="200px" src="https://user-images.githubusercontent.com/57417305/80937857-23573d80-8dad-11ea-8473-123454e87187.png"/>
 
-<a href=“https://codepen.io/Gohara/pen/ZEbrOdK“>• LINK AQUI</a>
+[• LINK AQUI](https://codepen.io/Gohara/pen/ZEbrOdK)
