@@ -19,7 +19,7 @@ justify-content: space-around;
 ![justify-content-row](https://user-images.githubusercontent.com/57417305/81176516-a0381200-8f7b-11ea-8181-b9893ae69d9f.png)
 
 ## Veja também em:
-<img width="200px" src="https://user-images.githubusercontent.com/57417305/80937857-23573d80-8dad-11ea-8473-123454e87187.png"/>
+<img width="200px" target="_blank" src="https://user-images.githubusercontent.com/57417305/80937857-23573d80-8dad-11ea-8473-123454e87187.png"/>
 
 [• LINK AQUI](https://codepen.io/Gohara/pen/bGVLeEz)
 
