@@ -28,7 +28,7 @@ justify-content: space-around;
 
 O eixo principal também pode ficar na vertical. Nesse caso, flex-direction é definido como coluna. Veja como os flex items serão alinhados nessa instância.
 
-<img width="700px" src="https://user-images.githubusercontent.com/57417305/81214529-59174480-8fae-11ea-90d0-29aaccd369dc.png" />
+<img width="700px" src="https://user-images.githubusercontent.com/57417305/81215092-2e79bb80-8faf-11ea-811a-495d01734d19.png" />
 
 ## Veja também em:
 <img width="200px" src="https://user-images.githubusercontent.com/57417305/80937857-23573d80-8dad-11ea-8473-123454e87187.png"/>
