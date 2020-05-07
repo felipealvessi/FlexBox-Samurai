@@ -14,7 +14,7 @@ justify-content: center;
 justify-content: space-between;
 // Cria um espaçamento igual entre os elementos. Mantendo o primeiro grudado no início e o último no final.
 justify-content: space-around;
-// Cria um espaçamento entre os elementos. Os espaçamentos do meio são duas vezes maiores que o inicial e final.
+// Cria um espaçamento entre os elementos. Os espaçamentos do meio são duas vezes maiores que o inicial e o final.
 ```
 
 <img width="700px" src="https://user-images.githubusercontent.com/57417305/81176516-a0381200-8f7b-11ea-8181-b9893ae69d9f.png" />
