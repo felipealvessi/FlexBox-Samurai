@@ -18,7 +18,7 @@ align-items: center;
 align-items: baseline;
 // Alinha os itens de acordo com a linha base da tipografia.
 ```
-<img width="700px" src="https://user-images.githubusercontent.com/57417305/81314911-0b5b1480-9060-11ea-92cb-8f3b15eba3f8.png" />
+<img width="700px" src="https://user-images.githubusercontent.com/57417305/81316019-70633a00-9061-11ea-9e5e-cd53bb2ccbb4.png" />
 
 ## Veja também em:
 <img width="200px" src="https://user-images.githubusercontent.com/57417305/80937857-23573d80-8dad-11ea-8473-123454e87187.png"/>
